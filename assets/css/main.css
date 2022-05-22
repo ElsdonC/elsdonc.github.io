@@ -3882,6 +3882,11 @@ input, select, textarea {
 		background-attachment: scroll;
 	}
 
+/* One */
+	#one {
+		background-color: rgba(0, 0, 0, .9);
+	}
+
 /* Footer */
 
 	#footer {
